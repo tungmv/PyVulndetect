@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+tensorflow
+keras
+scikit-learn
+gensim
+pydriller
+matplotlib
+tqdm
+requests
+pickle5
