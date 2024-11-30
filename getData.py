@@ -6,10 +6,8 @@ import subprocess
 from datetime import datetime
 import requests 
 import pickle
-from pydriller import RepositoryMining
+from pydriller import Repository
  
-
-
 
 def getChanges(rest):
   
